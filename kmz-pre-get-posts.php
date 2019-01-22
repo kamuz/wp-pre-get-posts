@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Custom Loop with pre_get_posts
+ * Plugin Name: KMZ Custom Loop with pre_get_posts
  * Description: Demonstrate how to customize the WordPress Standart Loop using pre_get_posts()
  * Plugin URL: https://wpninja.pp.ua
  * Author: Vladimir Kamuz
